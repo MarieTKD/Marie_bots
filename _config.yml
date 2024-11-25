@@ -36,7 +36,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person # "person" (default), "organization"
   name      : Marie Sallaberry
-  url       :
+  url       : https://github.com/MarieTKD/marietkd.github.io/blob/master/assets/images/logo/cute_logo.webp
   avatar    : # path or url of avatar image (square)
   bio       : I am a data scientist and a student at University of Colorado Boulder (MS-CS)
   email     : marino.sallaberry@gmail.com
